@@ -1,17 +1,16 @@
-![Wedzy Logo](https://github.com/UtkarshJain05/Wedzy-event_planner/blob/main/WedZy%20Logo.jpg?raw=true)
-
 # Wedzy 💍
 
-**Wedzy** is a stylish web project designed to showcase wedding and event plans with elegance and clarity.
+**Wedzy** is a modern wedding and event planning web project that offers a digital solution to showcase event details in an elegant and user-friendly manner. Ideal for couples and planners looking to take wedding planning online.
 
 🔗 [Live Demo](https://kritika252004.wixsite.com/wedzy-1)
 
 ## 💡 Features
 - Clean, elegant design with intuitive UI
-- Multi-section layout for event planning
-- Mobile-responsive and visually appealing
+- Multi-section layout covering all aspects of event planning
+- Visually appealing and mobile-responsive
+- Easily customizable for real-world use cases
 
 ## 🎯 Project Purpose
-Created to modernize how wedding and event details are shared online.
+Designed as a digital solution to modernize how weddings and events are showcased and planned — combining aesthetics with functionality.
 
 ---
